@@ -1,0 +1,9 @@
+{
+  "updated": "2026-06-07",
+  "sources": [
+    { "id": "tokyo-art-beat", "name": "Tokyo Art Beat", "url": "https://www.tokyoartbeat.com/", "type": "aggregator", "priority": 1, "covers": ["exhibitions"], "note": "美術館・ギャラリーの展覧会横断。会期で絞れる。" },
+    { "id": "go-tokyo", "name": "Go Tokyo（東京観光公式）", "url": "https://www.gotokyo.org/jp/", "type": "official", "priority": 1, "covers": ["seasonal","exhibitions"], "note": "東京都公式観光。季節イベント・見頃情報。" },
+    { "id": "tnm", "name": "東京国立博物館", "url": "https://www.tnm.jp/", "type": "official", "priority": 2, "covers": ["exhibitions","closures"], "note": "特別展・休館日。" },
+    { "id": "tokyo-parks", "name": "東京都公園協会", "url": "https://www.tokyo-park.or.jp/", "type": "official", "priority": 2, "covers": ["seasonal"], "note": "庭園の花の見頃。" }
+  ]
+}
