@@ -1,0 +1,116 @@
+{
+  "updated": "2026-06-07",
+  "month": "2026-06",
+  "exhibitions": [
+    {
+      "title": "ロン・ミュエク",
+      "venue": "森美術館",
+      "area": "六本木",
+      "period": "2026-04-29〜2026-09-23",
+      "note": "日本では18年ぶりの大規模個展。極めてリアルな具象彫刻作品群。平日2,100円／休日2,300円（日時指定制）。",
+      "source": "https://www.mori.art.museum/jp/exhibitions/ronmueck/"
+    },
+    {
+      "title": "ピカソ meets ポール・スミス 遊び心の冒険へ",
+      "venue": "国立新美術館",
+      "area": "六本木",
+      "period": "2026-06-10〜2026-09-21",
+      "note": "ポール・スミスが会場デザインを手掛けるコラボ展。前売2,200円・当日2,400円。",
+      "source": "https://www.nact.jp/exhibition_special/2026/picasso_paulsmith/"
+    },
+    {
+      "title": "杉本博司 絶滅写真",
+      "venue": "東京国立近代美術館",
+      "area": "竹橋",
+      "period": "2026-06-16〜2026-09-13",
+      "note": "日本では2005年以来の大規模写真個展。銀塩写真をテーマとした哲学的作品群。一般2,300円（前売2,100円）。",
+      "source": "https://art.nikkei.com/sugimoto/"
+    },
+    {
+      "title": "エットレ・ソットサス —魔法がはじまるとき、デザインは生まれる",
+      "venue": "アーティゾン美術館",
+      "area": "京橋",
+      "period": "2026-06-23〜2026-10-04",
+      "note": "イタリアの伝説的デザイナーの回顧展。ウェブ予約1,200円／窓口1,500円。",
+      "source": "https://www.artizon.museum/exhibition/detail/602"
+    },
+    {
+      "title": "アンドリュー・ワイエス展",
+      "venue": "東京都美術館",
+      "area": "上野",
+      "period": "2026-04-28〜2026-07-03",
+      "note": "アメリカを代表する写実画家の大規模展。前売2,100円・当日2,300円。",
+      "source": "https://wyeth2026.jp/ticket.html"
+    },
+    {
+      "title": "\"カフェ\"に集う芸術家—マネ、ゴッホ、ロートレックからピカソまで",
+      "venue": "三菱一号館美術館",
+      "area": "丸の内",
+      "period": "2026-06-13〜2026-09-23",
+      "note": "19世紀末パリのカフェ文化と芸術家をテーマにした企画展。前売2,100円・当日2,300円。",
+      "source": "https://mimt.jp/ex_sp/cafe/"
+    },
+    {
+      "title": "出光真子 おんなのさくひん",
+      "venue": "東京都写真美術館",
+      "area": "恵比寿",
+      "period": "2026-06-18〜2026-09-21",
+      "note": "写真・映像作品で構成する個展。一般700円。",
+      "source": "https://topmuseum.jp/exhibition/5417/"
+    },
+    {
+      "title": "チュルリョーニス展 内なる星図",
+      "venue": "国立西洋美術館",
+      "area": "上野",
+      "period": "2026-03-28〜2026-06-14",
+      "note": "リトアニアの象徴主義画家・音楽家の日本初大規模回顧展（約34年ぶり）。一般2,200円。6/14まで。",
+      "source": "https://www.nmwa.go.jp/jp/exhibitions/2026ciurlionis.html"
+    },
+    {
+      "title": "エリック・カール展 はじまりは、はらぺこあおむし",
+      "venue": "東京都現代美術館",
+      "area": "清澄白河",
+      "period": "2026-04-25〜2026-07-26",
+      "note": "はらぺこあおむし日本語版50周年記念の大回顧展。原画約180点。一般2,300円。",
+      "source": "https://ericcarle2026-27.jp/"
+    },
+    {
+      "title": "都美セレクション グループ展 2026",
+      "venue": "東京都美術館",
+      "area": "上野",
+      "period": "2026-06-10〜2026-07-01",
+      "note": "公募選出の3グループによる多様なメディアの展示。入場無料。",
+      "source": "https://www.tobikan.jp/exhibition/2026_groupshow.html"
+    },
+    {
+      "title": "MONSTERS BY MONSTERS: NOW AND THEN（LABUBU 10周年）",
+      "venue": "麻布台ヒルズ ギャラリー",
+      "area": "虎ノ門",
+      "period": "2026-06-11〜2026-07-05",
+      "note": "キャラクターLABUBU 10周年記念のグローバル巡回展。没入型展示・原画・ヴィンテージフィギュア等。2,500円。",
+      "source": "https://bijutsutecho.com/magazine/news/exhibition/32494"
+    },
+    {
+      "title": "アイルランド チェスター・ビーティー・コレクション 絵巻と絵本のたからばこ",
+      "venue": "東京国立博物館",
+      "area": "上野",
+      "period": "2026-04-27〜2026-07-20",
+      "note": "アイルランド・チェスター・ビーティー図書館所蔵の日本・東洋の絵巻・絵本の名品群。コレクション展観覧料（一般1,000円）に含む。",
+      "source": "https://www.tnm.jp/"
+    },
+    {
+      "title": "山王祭（江戸三大祭・本祭）",
+      "venue": "日枝神社",
+      "area": "赤坂",
+      "period": "2026-06-07〜2026-06-17",
+      "note": "2年に1度の本祭。6/12（金）神幸祭は約500名の行列が都心約23kmを巡行。観覧無料（一部有料）。",
+      "source": "https://www.tenkamatsuri.jp/"
+    }
+  ],
+  "seasonal": [
+    { "title": "花菖蒲", "spot": "明治神宮御苑", "peak": "6月上中旬", "source": "https://www.meijijingu.or.jp/" }
+  ],
+  "closures": [
+    { "venue": "古代オリエント博物館", "period": "2026-06-15〜07-03 展示替（7/4より特別展『古代オリエントのたてものとまちづくり』9/6まで）", "source": "https://aom-tokyo.com/" }
+  ]
+}
