@@ -15,15 +15,35 @@ function srcLink(url) {
   return url ? `<span class="item__src">出典: <a href="${url}" target="_blank" rel="noopener">公式</a></span>` : "";
 }
 
-function renderItem({ name, area, desc, fee, closed, source }) {
-  const wrap = el("div", "item");
+function renderItem({ name, area, desc, fee, closed, source, ended }) {
+  const wrap = el("div", ended ? "item item--ended" : "item");
   const meta = [area, fee, closed && `休: ${closed}`].filter(Boolean).join(" / ");
+  const badge = ended ? `<span class="item__badge">終了</span>` : "";
   wrap.innerHTML =
-    `<div class="item__head"><span class="item__name">${name}</span>` +
+    `<div class="item__head"><span class="item__name">${badge}${name}</span>` +
     `<span class="item__meta">${meta}</span></div>` +
     (desc ? `<div class="item__desc">${desc}</div>` : "") +
     srcLink(source);
   return wrap;
+}
+
+// period 文字列から会期末日を取り出す。最後の YYYY-MM-DD を採用。
+// JST ズレ回避のため new Date(y, m-1, d)（ローカル）で生成する。
+function parseEndDate(period) {
+  if (!period) return null;
+  const matches = period.match(/\d{4}-\d{2}-\d{2}/g);
+  if (!matches || !matches.length) return null;
+  const [y, m, d] = matches[matches.length - 1].split("-").map(Number);
+  return new Date(y, m - 1, d);
+}
+
+// 会期末日が今日より前なら終了済み（当日はまだ開催中扱い）。
+function isEnded(period) {
+  const end = parseEndDate(period);
+  if (!end) return false;
+  const now = new Date();
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  return end < today;
 }
 
 function addSection(parent, nav, id, label, render) {
@@ -50,12 +70,16 @@ async function main() {
 
   // 月次セクション（先頭）
   if (monthly.exhibitions?.length) {
+    // 会期終了済みは末尾へ（開催中の並びは維持）。
+    const exhibitions = monthly.exhibitions
+      .map((x) => ({ ...x, ended: isEnded(x.period) }))
+      .sort((a, b) => Number(a.ended) - Number(b.ended));
     addSection(content, nav, "exhibitions", "今月の企画展", (sec) => {
-      monthly.exhibitions.forEach((x) =>
+      exhibitions.forEach((x) =>
         sec.appendChild(renderItem({
           name: x.title, area: x.area,
           desc: [x.venue, x.period, x.note].filter(Boolean).join("｜"),
-          source: x.source,
+          source: x.source, ended: x.ended,
         })));
     });
   }
