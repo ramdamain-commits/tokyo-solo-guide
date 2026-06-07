@@ -15,15 +15,23 @@ function srcLink(url) {
   return url ? `<span class="item__src">出典: <a href="${url}" target="_blank" rel="noopener">公式</a></span>` : "";
 }
 
-function renderItem({ name, area, desc, fee, closed, source, ended }) {
+// 施設名で Google マップ検索リンクを生成（クリックで地図と住所が開く）。
+function mapLink(query) {
+  if (!query) return "";
+  const url = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+  return `<span class="item__map">📍 <a href="${url}" target="_blank" rel="noopener">地図</a></span>`;
+}
+
+function renderItem({ name, area, desc, fee, closed, source, ended, mapQuery }) {
   const wrap = el("div", ended ? "item item--ended" : "item");
   const meta = [area, fee, closed && `休: ${closed}`].filter(Boolean).join(" / ");
   const badge = ended ? `<span class="item__badge">終了</span>` : "";
+  const links = [srcLink(source), mapLink(mapQuery || name)].filter(Boolean).join(" ・ ");
   wrap.innerHTML =
     `<div class="item__head"><span class="item__name">${badge}${name}</span>` +
     `<span class="item__meta">${meta}</span></div>` +
     (desc ? `<div class="item__desc">${desc}</div>` : "") +
-    srcLink(source);
+    (links ? `<div class="item__links">${links}</div>` : "");
   return wrap;
 }
 
@@ -79,14 +87,14 @@ async function main() {
         sec.appendChild(renderItem({
           name: x.title, area: x.area,
           desc: [x.venue, x.period, x.note].filter(Boolean).join("｜"),
-          source: x.source, ended: x.ended,
+          source: x.source, ended: x.ended, mapQuery: x.venue,
         })));
     });
   }
   if (monthly.seasonal?.length) {
     addSection(content, nav, "seasonal", "季節の見頃", (sec) => {
       monthly.seasonal.forEach((x) =>
-        sec.appendChild(renderItem({ name: x.title, area: x.spot, desc: `見頃: ${x.peak}`, source: x.source })));
+        sec.appendChild(renderItem({ name: x.title, area: x.spot, desc: `見頃: ${x.peak}`, source: x.source, mapQuery: x.spot })));
     });
   }
   if (monthly.closures?.length) {

@@ -10,3 +10,4 @@
 - GitHub Pages 公開（https://ramdamain-commits.github.io/tokyo-solo-guide/ ）。公開前に禁止語スキャン0件で確認。
 - OGP / Twitter Card / canonical メタタグと絵文字SVG favicon を追加（SNS 共有時のプレビュー・SEO 改善）。
 - 企画展の会期終了を自動判定し、終了済みは薄表示＋「終了」バッジ付きで末尾に移動（`period` 末尾の YYYY-MM-DD を基準に判定）。
+- 全項目に Google マップ検索リンク（📍地図）を追加（施設名から生成。企画展は会場名、季節は見頃スポットを対象）。
