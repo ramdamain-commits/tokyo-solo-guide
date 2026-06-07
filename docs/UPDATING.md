@@ -21,6 +21,8 @@ researcher サブエージェントに以下を委任する:
 
 メイン側は出力 JSON の妥当性を確認し、`data/monthly.json` の各配列にそのまま差し込む（手コピペ整形しない）。`updated` と `month` を更新する。
 
+**会期表記の注意**: `exhibitions` の `period` は末尾に会期末日を `YYYY-MM-DD` 形式で含める（例 `2026-06-10〜2026-09-21`）。app.js がこの末日を見て、過ぎた展を自動で薄表示＋「終了」バッジ＋末尾移動する。末日が無い・形式が違うと終了判定されないだけで描画は壊れない。終了済みの展を載せ続けても自動で目立たなくなるため、無理に削除しなくてよい。
+
 ## 3. 反映
 1. `node -e "JSON.parse(require('fs').readFileSync('data/monthly.json','utf8'))"` で妥当性確認
 2. `git add data/monthly.json && git commit -m "data: YYYY-MM 月次更新"`
