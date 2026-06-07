@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": "history",
+      "label": "歴史・博物館",
+      "items": [
+        { "name": "東京国立博物館", "area": "上野", "desc": "本館+東洋館+法隆寺宝物館。日本通史と東洋美術の最高峰。", "fee": "1,000円", "closed": "月曜", "source": "https://www.tnm.jp/" },
+        { "name": "インターメディアテク", "area": "東京駅(KITTE)", "desc": "東大の博物学標本コレクション＝驚異の部屋。", "fee": "無料", "closed": "月曜", "source": "https://www.intermediatheque.jp/" },
+        { "name": "東洋文庫ミュージアム", "area": "駒込", "desc": "東洋学17万冊・古地図/写本。", "fee": "1,000円", "closed": "火曜", "source": "https://www.toyo-bunko.or.jp/museum/" },
+        { "name": "古代オリエント博物館", "area": "池袋", "desc": "メソポタミア/エジプトの実物資料。", "fee": "900円", "closed": "展示替期間あり", "source": "https://aom-tokyo.com/" },
+        { "name": "貨幣博物館（日本銀行）", "area": "三越前", "desc": "古代コインから現代通貨までの貨幣史。", "fee": "無料", "closed": "月曜", "source": "https://www.imes.boj.or.jp/cm/" },
+        { "name": "松岡美術館", "area": "白金台", "desc": "ガンダーラ仏/ギリシャ彫刻/中国陶磁。", "fee": "1,200円〜", "closed": "月曜", "source": "https://www.matsuoka-museum.jp/" }
+      ]
+    },
+    {
+      "id": "sports",
+      "label": "スポーツ観戦",
+      "items": [
+        { "name": "明治神宮野球場", "area": "外苑前", "desc": "プロ野球。外野席は当日券で一人観戦しやすい。", "fee": "外野2,100円〜", "closed": "", "source": "https://www.jingu-stadium.com/" },
+        { "name": "東京競馬場", "area": "府中", "desc": "入場のみでも楽しめる。一人客が多い。", "fee": "入場200円", "closed": "開催日のみ", "source": "https://www.jra.go.jp/facilities/race/tokyo/" }
+      ]
+    },
+    {
+      "id": "nature",
+      "label": "自然・庭園",
+      "items": [
+        { "name": "新宿御苑", "area": "新宿", "desc": "58haの広大な庭園。四季の花。", "fee": "500円", "closed": "月曜", "source": "https://www.env.go.jp/garden/shinjukugyoen/" },
+        { "name": "明治神宮御苑", "area": "原宿", "desc": "6月は花菖蒲の名所。", "fee": "500円", "closed": "", "source": "https://www.meijijingu.or.jp/" },
+        { "name": "等々力渓谷", "area": "等々力", "desc": "23区唯一の渓谷。", "fee": "無料", "closed": "", "source": "https://www.city.setagaya.lg.jp/" }
+      ]
+    },
+    {
+      "id": "gourmet",
+      "label": "グルメ・酒",
+      "items": [
+        { "name": "YEBISU BREWERY TOKYO", "area": "恵比寿", "desc": "ヱビスの醸造・タップルーム。一人カウンター可。", "fee": "", "closed": "", "source": "https://www.sapporobeer.jp/brewery/y_garden/" }
+      ]
+    },
+    {
+      "id": "experience",
+      "label": "体験・建築・夜景",
+      "items": [
+        { "name": "東京都庁展望室", "area": "新宿", "desc": "無料の夜景スポット。", "fee": "無料", "closed": "", "source": "https://www.yokoso.metro.tokyo.lg.jp/" },
+        { "name": "teamLab Borderless", "area": "麻布台", "desc": "没入型デジタルアート。平日昼が空く。", "fee": "公式参照", "closed": "", "source": "https://www.teamlab.art/jp/e/borderless-azabudai/" },
+        { "name": "コニカミノルタプラネタリアTOKYO", "area": "有楽町", "desc": "予約不要回あり。", "fee": "公式参照", "closed": "", "source": "https://planetarium.konicaminolta.jp/planetariatokyo/" }
+      ]
+    }
+  ]
+}
