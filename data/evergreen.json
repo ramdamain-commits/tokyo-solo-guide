@@ -33,7 +33,7 @@
       "id": "gourmet",
       "label": "グルメ・酒",
       "items": [
-        { "name": "YEBISU BREWERY TOKYO", "area": "恵比寿", "desc": "ヱビスの醸造・タップルーム。一人カウンター可。", "fee": "", "closed": "", "source": "https://www.sapporobeer.jp/brewery/y_garden/" }
+        { "name": "YEBISU BREWERY TOKYO", "area": "恵比寿", "desc": "ヱビスの醸造・タップルーム。一人カウンター可。", "fee": "", "closed": "", "source": "https://www.sapporobeer.jp/brewery/y_museum/" }
       ]
     },
     {
