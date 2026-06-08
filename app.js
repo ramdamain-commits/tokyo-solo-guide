@@ -91,6 +91,20 @@ async function main() {
         })));
     });
   }
+  if (monthly.events?.length) {
+    // 会期終了済みは末尾へ（開催中の並びは維持）。exhibitions と同じロジック。
+    const events = monthly.events
+      .map((x) => ({ ...x, ended: isEnded(x.period) }))
+      .sort((a, b) => Number(a.ended) - Number(b.ended));
+    addSection(content, nav, "events", "今月の歳時・祭り", (sec) => {
+      events.forEach((x) =>
+        sec.appendChild(renderItem({
+          name: x.title, area: x.area,
+          desc: [x.venue, x.period, x.note].filter(Boolean).join("｜"),
+          source: x.source, ended: x.ended, mapQuery: x.venue,
+        })));
+    });
+  }
   if (monthly.seasonal?.length) {
     addSection(content, nav, "seasonal", "季節の見頃", (sec) => {
       monthly.seasonal.forEach((x) =>
