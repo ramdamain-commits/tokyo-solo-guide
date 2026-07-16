@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-08",
-  "month": "2026-06",
+  "updated": "2026-07-16",
+  "month": "2026-07",
   "exhibitions": [
     {
       "title": "ロン・ミュエク",
       "venue": "森美術館",
       "area": "六本木",
       "period": "2026-04-29〜2026-09-23",
-      "note": "日本では18年ぶりの大規模個展。極めてリアルな具象彫刻作品群。平日2,100円／休日2,300円（日時指定制）。",
+      "note": "日本では18年ぶりの大規模個展。極めてリアルな具象彫刻作品群。平日2,100円/休日2,300円（日時指定制）。",
       "source": "https://www.mori.art.museum/jp/exhibitions/ronmueck/"
     },
     {
@@ -31,16 +31,8 @@
       "venue": "アーティゾン美術館",
       "area": "京橋",
       "period": "2026-06-23〜2026-10-04",
-      "note": "イタリアの伝説的デザイナーの回顧展。ウェブ予約1,200円／窓口1,500円。",
+      "note": "イタリアの伝説的デザイナーの回顧展。ウェブ予約1,200円/窓口1,500円。",
       "source": "https://www.artizon.museum/exhibition/detail/602"
-    },
-    {
-      "title": "アンドリュー・ワイエス展",
-      "venue": "東京都美術館",
-      "area": "上野",
-      "period": "2026-04-28〜2026-07-03",
-      "note": "アメリカを代表する写実画家の大規模展。前売2,100円・当日2,300円。",
-      "source": "https://wyeth2026.jp/ticket.html"
     },
     {
       "title": "\"カフェ\"に集う芸術家—マネ、ゴッホ、ロートレックからピカソまで",
@@ -59,51 +51,270 @@
       "source": "https://topmuseum.jp/exhibition/5417/"
     },
     {
-      "title": "チュルリョーニス展 内なる星図",
-      "venue": "国立西洋美術館",
-      "area": "上野",
-      "period": "2026-03-28〜2026-06-14",
-      "note": "リトアニアの象徴主義画家・音楽家の日本初大規模回顧展（約34年ぶり）。一般2,200円。6/14まで。",
-      "source": "https://www.nmwa.go.jp/jp/exhibitions/2026ciurlionis.html"
-    },
-    {
       "title": "エリック・カール展 はじまりは、はらぺこあおむし",
       "venue": "東京都現代美術館",
       "area": "清澄白河",
       "period": "2026-04-25〜2026-07-26",
-      "note": "はらぺこあおむし日本語版50周年記念の大回顧展。原画約180点。一般2,300円。",
+      "note": "はらぺこあおむし日本語版50周年記念の大回顧展。原画約180点。一般2,300円。7/26で会期終了。",
       "source": "https://ericcarle2026-27.jp/"
-    },
-    {
-      "title": "都美セレクション グループ展 2026",
-      "venue": "東京都美術館",
-      "area": "上野",
-      "period": "2026-06-10〜2026-07-01",
-      "note": "公募選出の3グループによる多様なメディアの展示。入場無料。",
-      "source": "https://www.tobikan.jp/exhibition/2026_groupshow.html"
-    },
-    {
-      "title": "MONSTERS BY MONSTERS: NOW AND THEN（LABUBU 10周年）",
-      "venue": "麻布台ヒルズ ギャラリー",
-      "area": "虎ノ門",
-      "period": "2026-06-11〜2026-07-05",
-      "note": "キャラクターLABUBU 10周年記念のグローバル巡回展。没入型展示・原画・ヴィンテージフィギュア等。2,500円。",
-      "source": "https://bijutsutecho.com/magazine/news/exhibition/32494"
     },
     {
       "title": "アイルランド チェスター・ビーティー・コレクション 絵巻と絵本のたからばこ",
       "venue": "東京国立博物館",
       "area": "上野",
       "period": "2026-04-27〜2026-07-20",
-      "note": "アイルランド・チェスター・ビーティー図書館所蔵の日本・東洋の絵巻・絵本の名品群。コレクション展観覧料（一般1,000円）に含む。",
+      "note": "アイルランド・チェスター・ビーティー図書館所蔵の日本・東洋の絵巻・絵本の名品群。コレクション展観覧料（一般1,000円）に含む。7/20で会期終了。",
       "source": "https://www.tnm.jp/"
+    },
+    {
+      "title": "古代オリエントのたてものとまちづくり ―模型で探検！―",
+      "venue": "古代オリエント博物館",
+      "area": "池袋",
+      "period": "2026-07-04〜2026-09-06",
+      "note": "予定通り7/4に開幕し開催中であることを公式サイトで確認済（会期中無休）。実物大模型含む30点以上の建築模型でギョベクリ・テペ、ウルク、バビロン等の古代都市を紹介。一般1,300円。",
+      "source": "https://aom-tokyo.com/exhibition/260704_maquette.html"
+    },
+    {
+      "title": "TOPコレクション 明日の食卓",
+      "venue": "東京都写真美術館",
+      "area": "恵比寿",
+      "period": "2026-07-02〜2026-09-21",
+      "note": "食をテーマにした収蔵作品展。島尾伸三・川内倫子ら14名の写真・映像作品。",
+      "source": "https://topmuseum.jp/exhibition/5419/"
+    },
+    {
+      "title": "トニー・アウスラー：技術と霊知のはざま～魔術、メディア、アート～",
+      "venue": "TOKYO NODE",
+      "area": "虎ノ門",
+      "period": "2026-07-03〜2026-09-27",
+      "note": "日本初の大規模個展。約50点、半数が日本初公開。デヴィッド・ボウイ出演作の世界初公開含む。",
+      "source": "https://www.tokyonode.jp/events/tony-oursler/index.html"
+    },
+    {
+      "title": "没後50年 髙島野十郎展",
+      "venue": "渋谷区立松濤美術館",
+      "area": "松濤（渋谷区）",
+      "period": "2026-07-04〜2026-09-06",
+      "note": "初公開作品含む約170点、過去最大規模の回顧展。前期7/4-8/2・後期8/4-9/6で展示替えあり。",
+      "source": "https://shoto-museum.jp/exhibitions/212takashima/"
+    },
+    {
+      "title": "生誕130年 前田寛治 ポエジイとレアリスム 一九三〇年協会設立100年",
+      "venue": "東京ステーションギャラリー",
+      "area": "丸の内",
+      "period": "2026-07-04〜2026-08-30",
+      "note": "18年ぶりの大回顧展。一般1,600円。休館日は月曜（7/20,8/10,8/24は開館）。",
+      "source": "https://www.ejrcf.or.jp/gallery/exhibition/202607_maeda.html"
+    },
+    {
+      "title": "ルーシー・リー展 ―東西をつなぐ優美のうつわ―",
+      "venue": "東京都庭園美術館",
+      "area": "白金台",
+      "period": "2026-07-04〜2026-09-13",
+      "note": "国内約10年ぶりの大規模回顧展。一般1,400円。8月の毎金曜は21時まで開館。",
+      "source": "https://www.teien-art-museum.ne.jp/exhibition/lucie-rie/"
+    },
+    {
+      "title": "まなざしの奇跡 日本女性写真家の冒険",
+      "venue": "渋谷ヒカリエホール（Bunkamura主催・代替会場）",
+      "area": "渋谷",
+      "period": "2026-07-04〜2026-08-26",
+      "note": "Bunkamuraザ・ミュージアムが長期休館中のため代替会場での開催。1950年代〜現在の女性写真家30名・約200点。",
+      "source": "https://www.bunkamura.co.jp/museum/exhibition/26_kiseki.html"
+    },
+    {
+      "title": "版画家レンブラント 挑戦、継承、インパクト",
+      "venue": "国立西洋美術館",
+      "area": "上野",
+      "period": "2026-07-07〜2026-09-23",
+      "note": "レンブラント・ハウス美術館との共同企画。エッチング作品と後世（ゴヤ、ホイッスラー、マティス等）への影響を展観。",
+      "source": "https://www.nmwa.go.jp/jp/exhibitions/2026rembrandt.html"
+    },
+    {
+      "title": "眼のごちそう 食器",
+      "venue": "サントリー美術館",
+      "area": "六本木",
+      "period": "2026-07-08〜2026-08-30",
+      "note": "桃山〜江戸時代の陶磁の食器を特集。一般当日1,700円。休館日は火曜（8/11は開館）。",
+      "source": "https://www.suntory.co.jp/sma/exhibition/2026_2/index.html"
+    },
+    {
+      "title": "可愛いだけじゃない！？ピングー展",
+      "venue": "YURAKUCHO MUSEUM",
+      "area": "有楽町",
+      "period": "2026-07-10〜2026-09-06",
+      "note": "有楽町に新設された展示施設YURAKUCHO MUSEUMのこけら落とし展。会期中無休。",
+      "source": "https://pingu-exhibit26.jp/"
+    },
+    {
+      "title": "弘法大師生誕1250年記念 特別展「空海と真言の名宝」",
+      "venue": "東京国立博物館",
+      "area": "上野",
+      "period": "2026-07-14〜2026-09-06",
+      "note": "国宝15件・重要文化財60件を含む真言宗寺宝88件。秘仏開帳含む。平成館。",
+      "source": "https://www.tnm.jp/modules/r_free_page/index.php?id=2760"
+    },
+    {
+      "title": "町田市立国際版画美術館所蔵 長谷川潔展 ―パリに生きた銅版画家の軌跡",
+      "venue": "パナソニック汐留美術館",
+      "area": "汐留",
+      "period": "2026-07-11〜2026-09-23",
+      "note": "パリで活躍した銅版画家の初期〜晩年の名品約130点。8/29〜9/23の土日祝は日時指定予約制。",
+      "source": "https://panasonic.co.jp/ew/museum/exhibition/26/260711/"
+    },
+    {
+      "title": "ほぼ、空：青木淳 ＋ リチャード・タトル",
+      "venue": "東京オペラシティ アートギャラリー",
+      "area": "西新宿",
+      "period": "2026-07-18〜2026-09-23",
+      "note": "建築家・青木淳と美術家リチャード・タトルの二人展。「寺田コレクション」も同時開催。",
+      "source": "https://www.operacity.jp/ag/"
+    },
+    {
+      "title": "没後20年 ナムジュン・パイク｜じゅげむ展",
+      "venue": "ワタリウム美術館",
+      "area": "神宮前",
+      "period": "2026-07-19〜2026-11-23",
+      "note": "ビデオアートの開拓者ナム・ジュン・パイクの没後20年回顧展。",
+      "source": "http://www.watarium.co.jp/jp/exhibition/202607/"
+    },
+    {
+      "title": "「おたから」探してミュージアム！",
+      "venue": "府中市美術館",
+      "area": "府中",
+      "period": "2026-07-25〜2026-09-06",
+      "note": "夏休み向け企画展。館蔵作品から「おたから」を探すテーマ展示。ギャラリートーク等は8月に複数回実施予定。",
+      "source": "https://www.city.fuchu.tokyo.jp/art/tenrankai/kikakutenkaisai/index.html"
+    },
+    {
+      "title": "東京都美術館開館100周年記念 この場所の風景―上野・大牟田・ブエノスアイレス",
+      "venue": "東京都美術館",
+      "area": "上野",
+      "period": "2026-07-23〜2026-10-07",
+      "note": "開館100周年記念企画。上野・大牟田・ブエノスアイレスの独自に育まれた美術活動を比較。",
+      "source": "https://www.tobikan.jp/exhibition/2026_viewsofthisplace.html"
+    },
+    {
+      "title": "東京都美術館開館100周年記念 大英博物館日本美術コレクション 百花繚乱～海を越えた江戸絵画",
+      "venue": "東京都美術館",
+      "area": "上野",
+      "period": "2026-07-25〜2026-10-18",
+      "note": "大英博物館所蔵の日本美術コレクションによる江戸絵画展。開館100周年記念企画第2弾。",
+      "source": "https://www.tobikan.jp/exhibition/2026_britishmuseum.html"
+    },
+    {
+      "title": "藝大式 美術の\"ミカタ\" ―この夏、藝大生になる―",
+      "venue": "東京藝術大学 大学美術館・陳列館",
+      "area": "上野",
+      "period": "2026-07-24〜2026-09-23",
+      "note": "",
+      "source": "https://www.tokyoartbeat.com/articles/-/recommended-exhibitions-2026-summer-tokyo-202607"
+    },
+    {
+      "title": "元禄！師宣劇場 十二ヶ月風俗図巻 大公開",
+      "venue": "静嘉堂文庫美術館",
+      "area": "丸の内",
+      "period": "2026-06-27〜2026-08-23",
+      "note": "6月開始・7月も会期中",
+      "source": "https://www.tokyoartbeat.com/articles/-/recommended-exhibitions-2026-summer-tokyo-202607"
+    },
+    {
+      "title": "アニマル＆モンスター かわいい・怖い・ちょっと変",
+      "venue": "太田記念美術館",
+      "area": "原宿",
+      "period": "2026-06-23〜2026-08-23",
+      "note": "6月開始・7月も会期中",
+      "source": "https://www.tokyoartbeat.com/articles/-/recommended-exhibitions-2026-summer-tokyo-202607"
+    },
+    {
+      "title": "洋館 明治の夢と挑戦",
+      "venue": "東京都江戸東京博物館",
+      "area": "両国",
+      "period": "2026-06-23〜2026-08-23",
+      "note": "6月開始・7月も会期中",
+      "source": "https://www.tokyoartbeat.com/articles/-/recommended-exhibitions-2026-summer-tokyo-202607"
+    },
+    {
+      "title": "ICC アニュアル 2026 遺す／残る／受けとめる",
+      "venue": "NTTインターコミュニケーション・センター[ICC]",
+      "area": "西新宿",
+      "period": "2026-06-20〜2026-11-08",
+      "note": "6月開始・7月も会期中",
+      "source": "https://www.tokyoartbeat.com/articles/-/recommended-exhibitions-2026-summer-tokyo-202607"
+    },
+    {
+      "title": "Linder: Goddess of the Mind",
+      "venue": "シャネル・ネクサス・ホール",
+      "area": "銀座",
+      "period": "2026-06-25〜2026-08-16",
+      "note": "6月開始・7月も会期中",
+      "source": "https://www.tokyoartbeat.com/articles/-/recommended-exhibitions-2026-summer-tokyo-202607"
+    },
+    {
+      "title": "細田守の原点/展",
+      "venue": "CREATIVE MUSEUM TOKYO",
+      "area": "麻布台",
+      "period": "2026-06-20〜2026-08-31",
+      "note": "6月開始・7月も会期中",
+      "source": "https://www.tokyoartbeat.com/articles/-/recommended-exhibitions-2026-summer-tokyo-202607"
+    },
+    {
+      "title": "リナ・バネルジー「YOU MADE ME LEAVE HOME…」",
+      "venue": "エスパス ルイ・ヴィトン東京",
+      "area": "銀座",
+      "period": "2026-03-19〜2026-09-13",
+      "note": "3月開始・7月も会期中",
+      "source": "https://www.tokyoartbeat.com/articles/-/recommended-exhibitions-2026-summer-tokyo-202607"
     }
   ],
   "seasonal": [
-    { "title": "花菖蒲", "spot": "明治神宮御苑", "peak": "6月上中旬", "source": "https://www.meijijingu.or.jp/" }
+    {
+      "title": "蓮（はす）",
+      "spot": "上野恩賜公園 不忍池",
+      "peak": "7月中旬〜8月中旬（早朝の開花が見頃）",
+      "source": "https://www.tokyo-park.or.jp/park/ueno/index.html"
+    },
+    {
+      "title": "蓮（はす）・花蓮園",
+      "spot": "神代植物公園",
+      "peak": "7月上旬〜8月上旬（約50品種）",
+      "source": "https://www.tokyo-park.or.jp/park/jindai/index.html"
+    },
+    {
+      "title": "ひまわり（清瀬ひまわりフェスティバル）",
+      "spot": "清瀬市 下清戸（石井ファーム・小寺ファーム等）",
+      "peak": "2026-07-18〜2026-07-26（第16回フェスティバル会期、約10万本）",
+      "source": "https://www.city.kiyose.lg.jp/bunkasportskankou/shinaimidokoro/himawari.html"
+    },
+    {
+      "title": "江戸の夏を歩く―変化朝顔と風鈴回廊―",
+      "spot": "神代植物公園",
+      "peak": "2026-07-14〜2026-08-30",
+      "source": "https://www.tokyo-park.or.jp/park/jindai/news/2026/park_info_furin_2026.html"
+    },
+    {
+      "title": "オニバス（都天然記念物）",
+      "spot": "水元公園",
+      "peak": "7月",
+      "source": "https://www.tokyo-park.or.jp/special/migoro/summer.html"
+    }
   ],
   "closures": [
-    { "venue": "古代オリエント博物館", "period": "2026-06-15〜07-03 展示替（7/4より特別展『古代オリエントのたてものとまちづくり』9/6まで）", "source": "https://aom-tokyo.com/" }
+    {
+      "venue": "Bunkamura ザ・ミュージアム",
+      "period": "2023-04-10〜2027年度中（時期未定、大規模改修工事のため長期休館中。移転先「Shibuya Upper West Project」は2029年度竣工予定）",
+      "source": "https://www.bunkamura.co.jp/museum/"
+    },
+    {
+      "venue": "根津美術館",
+      "period": "2026-07-13頃〜2026-08-14頃（現企画展は7/12まで、次回展「やきもの名品紀行」は8/15開始のため、この間は例年展示替え休館。正確な休館日は公式サイトのカレンダーで要確認）",
+      "source": "https://www.nezu-muse.or.jp/jp/exhibitions/upcoming/"
+    },
+    {
+      "venue": "東京文化会館（大ホール・小ホール・会議室等）",
+      "period": "2026-05-07〜（令和10年度中再開予定、大規模改修工事のため全館休館）",
+      "source": "https://www.t-bunka.jp/info/32755/"
+    }
   ],
   "events": [
     {
