@@ -10,7 +10,10 @@
         { "name": "古代オリエント博物館", "area": "池袋", "desc": "メソポタミア/エジプトの実物資料。", "fee": "900円", "closed": "展示替期間あり", "source": "https://aom-tokyo.com/", "rain": "ok" },
         { "name": "貨幣博物館（日本銀行）", "area": "三越前", "desc": "古代コインから現代通貨までの貨幣史。", "fee": "無料", "closed": "月曜", "source": "https://www.imes.boj.or.jp/cm/", "rain": "ok" },
         { "name": "松岡美術館", "area": "白金台", "desc": "ガンダーラ仏/ギリシャ彫刻/中国陶磁。", "fee": "1,200円〜", "closed": "月曜", "source": "https://www.matsuoka-museum.jp/", "rain": "ok" },
-        { "name": "江戸東京博物館", "area": "両国", "desc": "2026年3月にリニューアル再開館した都立の歴史博物館。江戸から東京への都市と暮らしの歴史を常設展で通覧できる。9:30〜17:30。", "fee": "常設展800円（特別展は別料金）", "closed": "月曜（祝日・振替休日の場合は翌日）", "source": "https://www.edo-tokyo-museum.or.jp/information/guide/", "rain": "ok" }
+        { "name": "江戸東京博物館", "area": "両国", "desc": "2026年3月にリニューアル再開館した都立の歴史博物館。江戸から東京への都市と暮らしの歴史を常設展で通覧できる。9:30〜17:30。", "fee": "常設展800円（特別展は別料金）", "closed": "月曜（祝日・振替休日の場合は翌日）", "source": "https://www.edo-tokyo-museum.or.jp/information/guide/", "rain": "ok" },
+        { "name": "江戸東京たてもの園", "area": "小金井", "desc": "都立小金井公園内の野外博物館。江戸〜昭和の歴史的建造物を移築復元し、建物の中にも入って見学できる。9:30〜17:30（10〜3月は16:30まで）。", "fee": "一般400円", "closed": "月曜（祝日・振替休日の場合は翌日）、年末年始", "source": "https://www.tatemonoen.jp/raien/holiday.php", "rain": "caution" },
+        { "name": "国立科学博物館", "area": "上野", "desc": "地球館・日本館からなる自然史・科学技術の総合博物館。恐竜化石やフーコーの振り子など常設展示が充実。9:00〜17:00（入館は16:30まで）。", "fee": "常設展 一般・大学生630円（高校生以下無料）", "closed": "月曜（日・月曜が祝日・休日の場合は火曜）、年末年始", "source": "https://www.kahaku.go.jp/riyou/nyukan-annai/", "rain": "ok" },
+        { "name": "相撲博物館（両国国技館内）", "area": "両国", "desc": "国技館1階の相撲専門博物館。番付・化粧廻しなどの資料を展示替えしながら公開。通常10:00〜16:30（東京本場所中は12:30〜16:00・大相撲の観覧券が必要）。", "fee": "無料", "closed": "土日祝（一部開館日あり・東京本場所中は毎日開館）、年末年始", "source": "https://www.sumo.or.jp/KokugikanSumoMuseum/overview/", "rain": "ok" }
       ]
     },
     {
@@ -18,7 +21,10 @@
       "label": "スポーツ観戦",
       "items": [
         { "name": "明治神宮野球場", "area": "外苑前", "desc": "プロ野球。外野席は当日券で一人観戦しやすい。", "fee": "外野2,100円〜", "closed": "", "source": "https://www.jingu-stadium.com/", "rain": "ng" },
-        { "name": "東京競馬場", "area": "府中", "desc": "入場のみでも楽しめる。一人客が多い。", "fee": "入場200円", "closed": "開催日のみ", "source": "https://www.jra.go.jp/facilities/race/tokyo/", "rain": "caution" }
+        { "name": "東京競馬場", "area": "府中", "desc": "入場のみでも楽しめる。一人客が多い。", "fee": "入場200円", "closed": "開催日のみ", "source": "https://www.jra.go.jp/facilities/race/tokyo/", "rain": "caution" },
+        { "name": "後楽園ホール", "area": "後楽園", "desc": "ボクシング・プロレスの聖地と呼ばれる屋内会場。料金・開始時刻は興行ごとに異なるため公式の興行スケジュールで確認。", "fee": "興行により異なる", "closed": "興行日のみ開場", "source": "https://www.tokyo-dome.co.jp/hall/", "rain": "ok" },
+        { "name": "大井競馬場（東京シティ競馬）", "area": "大井", "desc": "ナイター開催（トゥインクルレース）が中心の地方競馬場。スタンドから気軽に観戦できる。", "fee": "入場料100円（15歳未満無料）", "closed": "非開催日（公式カレンダー参照）", "source": "https://www.tokyocitykeiba.com/guide/", "rain": "caution" },
+        { "name": "東京ドーム スタジアムツアー", "area": "後楽園", "desc": "グラウンドやベンチなど普段入れない場所を巡る約60分のガイド付きツアー。開催日は試合・イベント日程で変わるため公式で確認。", "fee": "大人3,500円（土日祝は+500円）", "closed": "開催日のみ", "source": "https://www.tokyo-dome.co.jp/dome/visit/", "rain": "ok" }
       ]
     },
     {
@@ -27,14 +33,24 @@
       "items": [
         { "name": "新宿御苑", "area": "新宿", "desc": "58haの広大な庭園。四季の花。", "fee": "500円", "closed": "月曜", "source": "https://www.env.go.jp/garden/shinjukugyoen/", "rain": "caution" },
         { "name": "明治神宮御苑", "area": "原宿", "desc": "明治神宮境内の回遊式庭園。湧水の清正井、南池と隔雲亭、約150種1,500株の花菖蒲田（6月）など。9:00〜16:30（11〜2月は16:00まで・6月は時間延長）。", "fee": "維持協力金500円", "closed": "年中無休", "source": "https://www.meijijingu.or.jp/midokoro/gyoen/", "rain": "caution" },
-        { "name": "等々力渓谷", "area": "等々力", "desc": "23区唯一の渓谷。", "fee": "無料", "closed": "", "source": "https://www.city.setagaya.lg.jp/", "rain": "caution" }
+        { "name": "等々力渓谷", "area": "等々力", "desc": "23区唯一の渓谷。", "fee": "無料", "closed": "", "source": "https://www.city.setagaya.lg.jp/", "rain": "caution" },
+        { "name": "六義園", "area": "駒込", "desc": "柳沢吉保が造営した回遊式築山泉水庭園。春のしだれ桜・秋の紅葉で知られる。9:00〜17:00（最終入園16:30）。", "fee": "一般300円", "closed": "年末年始（12/29〜1/1）", "source": "https://www.tokyo-park.or.jp/park/rikugien/index.html", "rain": "caution" },
+        { "name": "小石川後楽園", "area": "後楽園", "desc": "水戸徳川家の江戸上屋敷に造られた回遊式庭園。9:00〜17:00（最終入園16:30）。", "fee": "一般300円", "closed": "年末年始（12/29〜1/1）", "source": "https://www.tokyo-park.or.jp/park/koishikawakorakuen/index.html", "rain": "caution" },
+        { "name": "浜離宮恩賜庭園", "area": "汐留", "desc": "潮入の池と鴨場を持つ徳川将軍家ゆかりの庭園。高層ビル群を背景にした景観が特徴。9:00〜17:00（最終入園16:30）。", "fee": "一般300円", "closed": "年末年始（12/29〜1/1）", "source": "https://www.tokyo-park.or.jp/park/hama-rikyu/index.html", "rain": "caution" },
+        { "name": "高尾山（ケーブルカー）", "area": "高尾山", "desc": "日本有数の急勾配を約6分で登るケーブルカーで中腹へ。そこから山頂まで歩いて登れる。", "fee": "ケーブルカー片道490円・往復980円", "closed": "", "source": "https://www.takaotozan.co.jp/timeprice/", "rain": "caution" }
       ]
     },
     {
       "id": "gourmet",
       "label": "グルメ・酒",
       "items": [
-        { "name": "YEBISU BREWERY TOKYO", "area": "恵比寿", "desc": "ヱビスの醸造・タップルーム。一人カウンター可。", "fee": "", "closed": "", "source": "https://www.sapporobeer.jp/brewery/y_museum/", "rain": "ok" }
+        { "name": "YEBISU BREWERY TOKYO", "area": "恵比寿", "desc": "ヱビスの醸造・タップルーム。一人カウンター可。", "fee": "", "closed": "", "source": "https://www.sapporobeer.jp/brewery/y_museum/", "rain": "ok" },
+        { "name": "神谷バー", "area": "浅草", "desc": "明治創業の老舗バー。名物「電気ブラン」をカウンターやテーブルで一人でも気軽に。11:00〜20:00（L.O.19:30）。", "fee": "", "closed": "火曜、月2回月曜", "source": "http://www.kamiya-bar.com/", "rain": "ok" },
+        { "name": "築地場外市場", "area": "築地", "desc": "食材店・飲食店が集まる市場街。食べ歩きや立ち食いの店が多い。営業は午前中心で、休業日・時間は店舗ごとに異なる。", "fee": "", "closed": "東京都中央卸売市場の休業日に準ずる店が多い（店舗ごとに異なる）", "source": "https://www.tsukiji.or.jp/ordinary/", "rain": "caution" },
+        { "name": "小澤酒造 澤乃井 酒蔵見学", "area": "青梅", "desc": "多摩川沿いの酒蔵で、蔵内見学ときき酒がセットの予約制ツアー。平日11:00・13:00、土日祝11:00・12:30・14:00。", "fee": "700円（20歳未満無料）", "closed": "月曜（祝日の場合は火曜）", "source": "https://www.sawanoi-sake.com/service/kengaku/", "rain": "ok" },
+        { "name": "横浜中華街", "area": "横浜（神奈川）", "desc": "日本最大級のチャイナタウン。点心の食べ歩きから一人で入れる料理店まで幅広く、関帝廟など街歩きも楽しめる。", "fee": "", "closed": "", "source": "https://www.chinatown.or.jp/", "rain": "ok" },
+        { "name": "神田まつや", "area": "神田", "desc": "明治17年創業の老舗そば店。平日11:00〜20:30（L.O.20:00）、土・祝11:00〜19:30（L.O.19:00）。", "fee": "", "closed": "日曜", "source": "https://visit-chiyoda.tokyo/app/spot/detail/359", "rain": "ok" },
+        { "name": "大黒家天麩羅", "area": "浅草", "desc": "明治創業の天丼の老舗。海老天丼が名物。", "fee": "", "closed": "", "source": "http://www.tempura.co.jp/", "rain": "ok" }
       ]
     },
     {
@@ -43,7 +59,10 @@
       "items": [
         { "name": "東京都庁展望室", "area": "新宿", "desc": "無料の夜景スポット。", "fee": "無料", "closed": "", "source": "https://www.yokoso.metro.tokyo.lg.jp/", "rain": "ok" },
         { "name": "teamLab Borderless", "area": "麻布台", "desc": "没入型デジタルアート。平日昼が空く。", "fee": "公式参照", "closed": "", "source": "https://www.teamlab.art/jp/e/borderless-azabudai/", "rain": "ok" },
-        { "name": "コニカミノルタプラネタリアTOKYO", "area": "有楽町", "desc": "予約不要回あり。", "fee": "公式参照", "closed": "", "source": "https://planetarium.konicaminolta.jp/planetariatokyo/", "rain": "ok" }
+        { "name": "コニカミノルタプラネタリアTOKYO", "area": "有楽町", "desc": "予約不要回あり。", "fee": "公式参照", "closed": "", "source": "https://planetarium.konicaminolta.jp/planetariatokyo/", "rain": "ok" },
+        { "name": "東京タワー メインデッキ", "area": "芝公園", "desc": "地上150mの展望台。夜景も楽しめる。9:00〜23:00（最終入場22:30）。", "fee": "大人1,500円", "closed": "", "source": "https://www.tokyotower.co.jp/fee/", "rain": "ok" },
+        { "name": "SHIBUYA SKY", "area": "渋谷", "desc": "渋谷スクランブルスクエア最上部の展望施設。屋上の屋外展望空間は荒天時に閉鎖されることがある。", "fee": "Web大人2,700円（15時以降3,400円）／窓口3,000円（15時以降3,700円）", "closed": "", "source": "https://www.shibuya-scramble-square.com/sky/ticket/", "rain": "caution" },
+        { "name": "自由学園明日館", "area": "池袋", "desc": "フランク・ロイド・ライト設計の重要文化財建築。通常見学は16:00まで（休日見学日は17:00まで・夜間見学日あり）。", "fee": "見学500円・喫茶付1,000円（現金のみ）", "closed": "月曜", "source": "https://jiyu.jp/", "rain": "ok" }
       ]
     },
     {
