@@ -15,9 +15,12 @@ researcher サブエージェントに以下を委任する:
 > - exhibitions: `[{title, venue, area, period, note, source}]`（会期中の企画展・特別展）
 > - seasonal: `[{title, spot, peak, source}]`（今月の花・自然の見頃）
 > - closures: `[{venue, period, source}]`（主要館の休館・展示替・リニューアル）
+> - events: `[{title, venue, area, period, note, source}]`（今月の歳時・社寺行事・祭り）
 > 各項目は必ず公式または Tokyo Art Beat の URL を `source` に入れる。
 > wiki・個人ブログは裏取りのみで、`source` には使わない。
 > **居住地・個人属性・移動時間は一切書かない（汎用情報のみ）。**
+
+**雨の日の可否**: exhibitions / events / seasonal の各項目には、メイン側が差し込み時に `rain`（`ok` / `caution` / `ng`）を付ける。基準は README の「雨の日の可否」表。企画展は原則 `ok`、季節の見頃は原則 `caution`、祭りは公式に雨天中止の記載があれば `ng`、雨天決行なら `caution`。
 
 メイン側は出力 JSON の妥当性を確認し、`data/monthly.json` の各配列にそのまま差し込む（手コピペ整形しない）。`updated` と `month` を更新する。
 
@@ -37,4 +40,4 @@ researcher サブエージェントに以下を委任する:
 - 個人ブログ・SNS は原則 sources に入れない（裏取り用に留める）。
 
 ## 5. 常設データ（evergreen.json）
-常設は随時。施設の閉館・移転・料金改定を見つけたら該当 item を修正。新カテゴリ追加時は app.js は変更不要（categories 配列を増やすだけで描画される）。
+常設は随時。施設の閉館・移転・料金改定を見つけたら該当 item を修正。新規 item にも `rain` を付ける。新カテゴリ追加時は app.js は変更不要（categories 配列を増やすだけで描画される）。

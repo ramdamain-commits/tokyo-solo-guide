@@ -22,13 +22,25 @@ function mapLink(query) {
   return `<span class="item__map">📍 <a href="${url}" target="_blank" rel="noopener">地図</a></span>`;
 }
 
-function renderItem({ name, area, desc, fee, closed, source, ended, mapQuery }) {
+// 雨の日の可否（ok=可 / caution=非推奨 / ng=不可）。未設定なら表示しない。
+const RAIN = {
+  ok: ["可", "item__rain--ok"],
+  caution: ["非推奨", "item__rain--caution"],
+  ng: ["不可", "item__rain--ng"],
+};
+
+function rainBadge(rain) {
+  const r = RAIN[rain];
+  return r ? `<span class="item__rain ${r[1]}">☔${r[0]}</span>` : "";
+}
+
+function renderItem({ name, area, desc, fee, closed, source, ended, mapQuery, rain }) {
   const wrap = el("div", ended ? "item item--ended" : "item");
   const meta = [area, fee, closed && `休: ${closed}`].filter(Boolean).join(" / ");
   const badge = ended ? `<span class="item__badge">終了</span>` : "";
   const links = [srcLink(source), mapLink(mapQuery || name)].filter(Boolean).join(" ・ ");
   wrap.innerHTML =
-    `<div class="item__head"><span class="item__name">${badge}${name}</span>` +
+    `<div class="item__head"><span class="item__name">${badge}${name}${rainBadge(rain)}</span>` +
     `<span class="item__meta">${meta}</span></div>` +
     (desc ? `<div class="item__desc">${desc}</div>` : "") +
     (links ? `<div class="item__links">${links}</div>` : "");
@@ -87,7 +99,7 @@ async function main() {
         sec.appendChild(renderItem({
           name: x.title, area: x.area,
           desc: [x.venue, x.period, x.note].filter(Boolean).join("｜"),
-          source: x.source, ended: x.ended, mapQuery: x.venue,
+          source: x.source, ended: x.ended, mapQuery: x.venue, rain: x.rain,
         })));
     });
   }
@@ -101,14 +113,14 @@ async function main() {
         sec.appendChild(renderItem({
           name: x.title, area: x.area,
           desc: [x.venue, x.period, x.note].filter(Boolean).join("｜"),
-          source: x.source, ended: x.ended, mapQuery: x.venue,
+          source: x.source, ended: x.ended, mapQuery: x.venue, rain: x.rain,
         })));
     });
   }
   if (monthly.seasonal?.length) {
     addSection(content, nav, "seasonal", "季節の見頃", (sec) => {
       monthly.seasonal.forEach((x) =>
-        sec.appendChild(renderItem({ name: x.title, area: x.spot, desc: `見頃: ${x.peak}`, source: x.source, mapQuery: x.spot })));
+        sec.appendChild(renderItem({ name: x.title, area: x.spot, desc: `見頃: ${x.peak}`, source: x.source, mapQuery: x.spot, rain: x.rain })));
     });
   }
   if (monthly.closures?.length) {
