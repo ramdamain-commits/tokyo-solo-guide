@@ -26,7 +26,7 @@
       "label": "自然・庭園",
       "items": [
         { "name": "新宿御苑", "area": "新宿", "desc": "58haの広大な庭園。四季の花。", "fee": "500円", "closed": "月曜", "source": "https://www.env.go.jp/garden/shinjukugyoen/", "rain": "caution" },
-        { "name": "明治神宮御苑", "area": "原宿", "desc": "6月は花菖蒲の名所。", "fee": "500円", "closed": "", "source": "https://www.meijijingu.or.jp/", "rain": "caution" },
+        { "name": "明治神宮御苑", "area": "原宿", "desc": "明治神宮境内の回遊式庭園。湧水の清正井、南池と隔雲亭、約150種1,500株の花菖蒲田（6月）など。9:00〜16:30（11〜2月は16:00まで・6月は時間延長）。", "fee": "維持協力金500円", "closed": "年中無休", "source": "https://www.meijijingu.or.jp/midokoro/gyoen/", "rain": "caution" },
         { "name": "等々力渓谷", "area": "等々力", "desc": "23区唯一の渓谷。", "fee": "無料", "closed": "", "source": "https://www.city.setagaya.lg.jp/", "rain": "caution" }
       ]
     },
