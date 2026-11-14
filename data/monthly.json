@@ -1,41 +1,50 @@
 {
-  "updated": "2026-09-25",
-  "month": "2026-10",
+  "updated": "2026-11-14",
+  "month": "2026-11",
   "exhibitions": [
     {
-      "title": "大英博物館日本美術コレクション 百花繚乱",
+      "title": "オルセー美術館所蔵 いまを生きる歓び",
       "venue": "東京都美術館",
       "area": "上野",
-      "period": "2026-07-25〜2026-10-18",
-      "note": "一般2,300円。",
-      "source": "https://www.tobikan.jp/exhibition/",
+      "period": "2026-11-14〜2027-03-28",
+      "note": "ミレー《落穂拾い》、ファン・ゴッホ《星月夜》などが来日。東京都美術館開館100周年の企画。",
+      "source": "https://art.nikkei.com/orsay2627/",
       "rain": "ok"
     },
     {
-      "title": "歌川広重 江戸のベストアングル",
+      "title": "あなたが世界を読むために",
+      "venue": "東京都美術館",
+      "area": "上野",
+      "period": "2026-11-19〜2027-01-11",
+      "note": "",
+      "source": "https://www.tobikan.jp/exhibition/index.html",
+      "rain": "ok"
+    },
+    {
+      "title": "はじまりをひらく 東京都美術館の100年",
+      "venue": "東京都美術館",
+      "area": "上野",
+      "period": "2026-11-19〜2027-01-11",
+      "note": "",
+      "source": "https://www.tobikan.jp/exhibition/index.html",
+      "rain": "ok"
+    },
+    {
+      "title": "特別展 内山晋コレクション受贈記念「歌川広重 江戸のベストアングル」",
       "venue": "東京国立博物館",
       "area": "上野",
       "period": "2026-09-29〜2026-12-20",
-      "note": "",
-      "source": "https://www.tnm.jp/",
+      "note": "一般1,500円。金・土曜と11/22は20時まで開館。当日に限り東博コレクション展も観覧可。",
+      "source": "https://www.tnm.jp/modules/r_free_page/index.php?id=2759",
       "rain": "ok"
     },
     {
-      "title": "特別展「大徳寺 本朝無双之禅苑」",
+      "title": "開創700年記念 特別展「大徳寺 本朝無双之禅苑」",
       "venue": "東京国立博物館",
       "area": "上野",
       "period": "2026-10-14〜2026-12-06",
-      "note": "一般2,300円。土曜は20時まで開館。",
-      "source": "https://www.tnm.jp/",
-      "rain": "ok"
-    },
-    {
-      "title": "NHK大河ドラマ特別展「豊臣兄弟！」",
-      "venue": "江戸東京博物館",
-      "area": "両国",
-      "period": "2026-09-15〜2026-11-08",
-      "note": "常設展とのセット券2,740円。土曜は19:30まで開館。",
-      "source": "https://www.edo-tokyo-museum.or.jp/",
+      "note": "一般2,300円。金・土曜と11/22は20時まで開館。",
+      "source": "https://daitokuji2026.exhn.jp/",
       "rain": "ok"
     },
     {
@@ -43,17 +52,17 @@
       "venue": "国立西洋美術館",
       "area": "上野",
       "period": "2026-10-24〜2027-02-21",
-      "note": "一般2,400円（前売2,200円）。金・土曜は20時まで開館。",
+      "note": "一般2,400円。金・土曜は20時まで開館。",
       "source": "https://www.nmwa.go.jp/jp/exhibitions/2026turner.html",
       "rain": "ok"
     },
     {
-      "title": "マリメッコ展 模様のちから",
-      "venue": "東京都庭園美術館",
-      "area": "白金台",
-      "period": "2026-10-03〜2026-12-20",
-      "note": "一般1,400円。",
-      "source": "https://www.teien-art-museum.ne.jp/exhibition/",
+      "title": "劇場をめぐるイメージ―ドラクロワ、ドーミエからトゥールーズ=ロートレック、クリンガーまで",
+      "venue": "国立西洋美術館",
+      "area": "上野",
+      "period": "2026-10-20〜2027-01-11",
+      "note": "一般500円。常設展またはターナー展の観覧券で当日観覧可。金・土曜は20時まで開館。",
+      "source": "https://www.nmwa.go.jp/jp/exhibitions/2026theater.html",
       "rain": "ok"
     },
     {
@@ -61,8 +70,125 @@
       "venue": "上野の森美術館",
       "area": "上野",
       "period": "2026-10-10〜2027-01-10",
-      "note": "一般2,400円（前売2,200円）。10/10〜10/31の平日は大学生以下無料（要証明）。",
+      "note": "国立科学博物館「生きものたちの性」とのセット券（当日一般・大学生4,100円）あり。",
       "source": "https://www.cincinnati-art2026.jp/ticket.html",
+      "rain": "ok"
+    },
+    {
+      "title": "特別展「生きものたちの性」",
+      "venue": "国立科学博物館",
+      "area": "上野",
+      "period": "2026-10-31〜2027-02-21",
+      "note": "同館初の性をテーマにした特別展。",
+      "source": "https://www.ikimono-sei.jp/",
+      "rain": "ok"
+    },
+    {
+      "title": "ルーヴル美術館展 ルネサンス",
+      "venue": "国立新美術館",
+      "area": "六本木",
+      "period": "2026-09-09〜2026-12-13",
+      "note": "一般2,400円。金・土曜は20時まで開館。12/7〜12/13は日時指定制。",
+      "source": "https://www.nact.jp/exhibition_special/2026/louvre2026/",
+      "rain": "ok"
+    },
+    {
+      "title": "少女漫画・インフィニティ 萩尾望都×山岸凉子×大和和紀 三人展",
+      "venue": "国立新美術館",
+      "area": "六本木",
+      "period": "2026-10-28〜2027-02-08",
+      "note": "一般2,200円。金・土曜は20時まで開館。前期は12/14まで、後期は12/16から。",
+      "source": "https://www.nact.jp/exhibition_special/2026/shojomanga/",
+      "rain": "ok"
+    },
+    {
+      "title": "森万里子：燦燦",
+      "venue": "森美術館",
+      "area": "六本木",
+      "period": "2026-10-31〜2027-03-28",
+      "note": "会期中無休。平日一般2,800円/土日祝一般3,000円（オンライン割引あり）。",
+      "source": "https://www.mori.art.museum/jp/exhibitions/marikomori/index.html",
+      "rain": "ok"
+    },
+    {
+      "title": "企画展「方丈記に学ぶ –生きるを編み直す小さな建築–」",
+      "venue": "21_21 DESIGN SIGHT",
+      "area": "六本木",
+      "period": "2026-08-28〜2027-01-11",
+      "note": "",
+      "source": "https://www.2121designsight.jp/program/",
+      "rain": "ok"
+    },
+    {
+      "title": "特別展 唐物誕生 ―茶の湯デザインの源流をさぐる",
+      "venue": "泉屋博古館東京",
+      "area": "六本木",
+      "period": "2026-11-03〜2026-12-13",
+      "note": "一般1,500円。会期中2回目の来館は半券提示で半額。",
+      "source": "https://sen-oku.or.jp/program/t_202611_karamono/",
+      "rain": "ok"
+    },
+    {
+      "title": "ニコライ・アストルップ 創造する庭",
+      "venue": "東京ステーションギャラリー",
+      "area": "丸の内",
+      "period": "2026-11-21〜2027-01-31",
+      "note": "一般1,800円。",
+      "source": "https://www.ejrcf.or.jp/gallery/",
+      "rain": "ok"
+    },
+    {
+      "title": "THE MASKS 仮面に魅せられた人々",
+      "venue": "静嘉堂文庫美術館（静嘉堂＠丸の内）",
+      "area": "丸の内",
+      "period": "2026-11-21〜2027-01-17",
+      "note": "",
+      "source": "https://www.seikado.or.jp/",
+      "rain": "ok"
+    },
+    {
+      "title": "フォンタネージ ─ イタリアの光・心の風景",
+      "venue": "三菱一号館美術館",
+      "area": "丸の内",
+      "period": "2026-10-17〜2027-01-24",
+      "note": "会期中展示替えあり。祝日を除く金曜と第2水曜は20時まで開館。",
+      "source": "https://mimt.jp/ex_sp/fontanesi/",
+      "rain": "ok"
+    },
+    {
+      "title": "ジャム・セッション 石橋財団コレクション×藤井光 WHOSE LIGHT? ―だれのひかりか",
+      "venue": "アーティゾン美術館",
+      "area": "京橋",
+      "period": "2026-10-24〜2027-01-31",
+      "note": "",
+      "source": "https://www.artizon.museum/exhibition/",
+      "rain": "ok"
+    },
+    {
+      "title": "エトランゼたち ―洋画家たちのヨーロッパ体験",
+      "venue": "アーティゾン美術館",
+      "area": "京橋",
+      "period": "2026-10-24〜2027-01-31",
+      "note": "",
+      "source": "https://www.artizon.museum/exhibition/",
+      "rain": "ok"
+    },
+    {
+      "title": "竹久夢二 時代を創る表現者",
+      "venue": "東京国立近代美術館",
+      "area": "竹橋",
+      "period": "2026-10-23〜2027-01-11",
+      "note": "金・土曜は20時まで開館。前期は11/23まで、後期は11/25から。",
+      "source": "https://yumeji2026-28.jp/",
+      "rain": "ok"
+    },
+    {
+      "title": "マリメッコ展 模様のちから",
+      "venue": "東京都庭園美術館",
+      "area": "白金台",
+      "period": "2026-10-03〜2026-12-20",
+      "note": "一般1,400円。11/20・21・27・28、12/4・5は20時まで開館。",
+      "source": "https://www.teien-art-museum.ne.jp/exhibition/20261003-1220_marimekko/",
       "rain": "ok"
     },
     {
@@ -70,7 +196,7 @@
       "venue": "パナソニック汐留美術館",
       "area": "汐留",
       "period": "2026-10-15〜2026-12-20",
-      "note": "",
+      "note": "一般1,200円。12/4・12/18・12/19は20時まで開館。",
       "source": "https://panasonic.co.jp/ew/museum/exhibition/26/261015/",
       "rain": "ok"
     },
@@ -80,97 +206,25 @@
       "area": "初台",
       "period": "2026-10-17〜2026-12-20",
       "note": "",
-      "source": "https://www.tokyoartbeat.com/articles/-/recommended-exhibitions-tokyo-in-2026-202606",
+      "source": "https://www.operacity.jp/ag/",
       "rain": "ok"
     },
     {
-      "title": "竹久夢二 時代を創る表現者",
-      "venue": "東京国立近代美術館",
-      "area": "竹橋",
-      "period": "2026-10-23〜2027-01-11",
-      "note": "観覧料でMOMATコレクション（所蔵作品展）も同日鑑賞可。",
-      "source": "https://www.momat.go.jp/",
-      "rain": "ok"
-    },
-    {
-      "title": "ジャム・セッション 石橋財団コレクション×毛利悠子―ピュシスについて",
-      "venue": "アーティゾン美術館",
-      "area": "京橋",
-      "period": "2026-10-24〜2027-01-31",
-      "note": "日時指定予約制。ウェブ予約1,200円/窓口1,500円、学生無料（要ウェブ予約）。",
-      "source": "https://www.artizon.museum/exhibition_sp/js_mohriyuko/overview/",
-      "rain": "ok"
-    },
-    {
-      "title": "少女漫画・インフィニティ 萩尾望都×山岸凉子×大和和紀 三人展",
-      "venue": "国立新美術館",
-      "area": "六本木",
-      "period": "2026-10-28〜2027-02-08",
-      "note": "一般2,200円（前売2,000円）。",
-      "source": "https://www.nact.jp/exhibition_special/2026/shojomanga/",
-      "rain": "ok"
-    },
-    {
-      "title": "森万里子：燦燦",
-      "venue": "森美術館",
-      "area": "六本木",
-      "period": "2026-10-31〜2027-03-28",
-      "note": "日時指定制。平日一般2,800円/土日祝一般3,000円（オンライン割引あり）。9/24〜10/30は展示替えのため休館。",
-      "source": "https://www.mori.art.museum/jp/exhibitions/marikomori/index.html",
-      "rain": "ok"
-    },
-    {
-      "title": "逸翁美術館コレクション 蕪村・呉春と茶の湯の名品",
-      "venue": "サントリー美術館",
-      "area": "六本木",
-      "period": "2026-09-16〜2026-11-08",
+      "title": "開館50周年記念 アルベール・マルケ展",
+      "venue": "SOMPO美術館",
+      "area": "新宿",
+      "period": "2026-09-22〜2026-12-13",
       "note": "",
-      "source": "https://www.suntory.co.jp/sma/exhibition/",
+      "source": "https://www.sompo-museum.org/exhibitions/",
       "rain": "ok"
     },
     {
-      "title": "水滸伝",
-      "venue": "東京ステーションギャラリー",
-      "area": "丸の内",
-      "period": "2026-09-19〜2026-11-08",
-      "note": "北宋〜清の中国美術と江戸〜現代の日本美術を「水滸伝」のテーマで展観。",
-      "source": "https://www.ejrcf.or.jp/gallery/",
-      "rain": "ok"
-    },
-    {
-      "title": "没後100年記念 住友春翠 ―仕合わせの住友近代美術コレクション",
-      "venue": "泉屋博古館東京",
-      "area": "六本木",
-      "period": "2026-08-29〜2026-10-12",
-      "note": "前期・後期で一部展示替えあり。",
-      "source": "https://sen-oku.or.jp/tokyo/program_t/",
-      "rain": "ok"
-    },
-    {
-      "title": "やきもの名品紀行 ―中国・日本・朝鮮半島―",
-      "venue": "根津美術館",
-      "area": "南青山",
-      "period": "2026-09-05〜2026-10-12",
+      "title": "没後70年 マリー・ローランサン展",
+      "venue": "堺屋太一記念 東京藝術大学 美術愛住館",
+      "area": "四谷三丁目",
+      "period": "2026-11-18〜2026-12-27",
       "note": "",
-      "source": "https://www.nezu-muse.or.jp/jp/exhibitions/current/",
-      "rain": "ok"
-    },
-    {
-      "title": "特別展 舞楽装束 受け継がれる染織の美",
-      "venue": "根津美術館",
-      "area": "南青山",
-      "period": "2026-10-24〜2026-11-23",
-      "note": "大阪・四天王寺の舞楽装束を特集。",
-      "source": "https://www.nezu-muse.or.jp/jp/exhibitions/upcoming/",
-      "rain": "ok"
-    },
-    {
-      "title": "フォンタネージ ─ イタリアの光・心の風景",
-      "venue": "三菱一号館美術館",
-      "area": "丸の内",
-      "period": "2026-10-17〜2027-01-24",
-      "note": "一般2,300円（前売2,100円）。日本初の大回顧展、約200点。",
-      "source": "https://mimt.jp/exhibition/",
+      "source": "https://aizumikan.com/",
       "rain": "ok"
     },
     {
@@ -187,8 +241,26 @@
       "venue": "東京都現代美術館",
       "area": "清澄白河",
       "period": "2026-09-05〜2026-12-13",
-      "note": "一般2,000円。企画展セット券（両展）は一般3,000円。",
+      "note": "一般2,000円。",
       "source": "https://www.mot-art-museum.jp/exhibitions/",
+      "rain": "ok"
+    },
+    {
+      "title": "江戸東京博物館リニューアル記念特別展「円山応挙 リアルの先へ 空間革命」",
+      "venue": "江戸東京博物館",
+      "area": "両国",
+      "period": "2026-11-28〜2027-01-24",
+      "note": "",
+      "source": "https://www.edo-tokyo-museum.or.jp/s-exhibition/",
+      "rain": "ok"
+    },
+    {
+      "title": "特別展 舞楽装束 受け継がれる染織の美",
+      "venue": "根津美術館",
+      "area": "南青山",
+      "period": "2026-10-24〜2026-11-23",
+      "note": "オンライン日時指定予約で一般1,600円。",
+      "source": "https://www.nezu-muse.or.jp/jp/exhibitions/current/",
       "rain": "ok"
     },
     {
@@ -196,26 +268,8 @@
       "venue": "東京都写真美術館",
       "area": "恵比寿",
       "period": "2026-10-31〜2026-11-23",
-      "note": "1階ホールで開催。",
-      "source": "https://topmuseum.jp/upcoming/",
-      "rain": "ok"
-    },
-    {
-      "title": "特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」",
-      "venue": "国立科学博物館",
-      "area": "上野",
-      "period": "2026-07-11〜2026-10-12",
-      "note": "当日券一般・大学生2,300円。",
-      "source": "https://ikimonoworld.jp/ticket.html",
-      "rain": "ok"
-    },
-    {
-      "title": "特別展「生きものたちの性」",
-      "venue": "国立科学博物館",
-      "area": "上野",
-      "period": "2026-10-31〜2027-02-21",
-      "note": "同館初の性をテーマにした特別展。",
-      "source": "https://www.ikimono-sei.jp/",
+      "note": "",
+      "source": "https://topmuseum.jp/",
       "rain": "ok"
     },
     {
@@ -237,21 +291,12 @@
       "rain": "ok"
     },
     {
-      "title": "モネ没後100年・開館25周年記念 あたらしい目―モネと21世紀のアート",
-      "venue": "ポーラ美術館",
-      "area": "箱根（神奈川）",
-      "period": "2026-06-17〜2027-04-07",
+      "title": "KIRIKANE Sculpture 山本茜",
+      "venue": "そごう美術館",
+      "area": "横浜（神奈川）",
+      "period": "2026-10-24〜2026-12-06",
       "note": "",
-      "source": "https://www.polamuseum.or.jp/exhibition/2026061701/",
-      "rain": "ok"
-    },
-    {
-      "title": "千葉開府900年記念特別展 月と星と―美術がつなぐとき",
-      "venue": "千葉市美術館",
-      "area": "千葉（千葉）",
-      "period": "2026-09-16〜2026-11-23",
-      "note": "一般1,500円。10/18は市民の日で観覧無料、金・土曜18時以降は2割引。",
-      "source": "https://www.ccma-net.jp/exhibitions/special/26-9-16-11-23/",
+      "source": "https://sogo-museum.jp/",
       "rain": "ok"
     },
     {
@@ -259,8 +304,71 @@
       "venue": "神奈川県立歴史博物館",
       "area": "横浜（神奈川）",
       "period": "2026-10-17〜2026-12-13",
-      "note": "約1年9か月の休館を経て再開館。特別展・常設展セット一般850円。",
-      "source": "https://ch.kanagawa-museum.jp/exhibition/11382",
+      "note": "約1年9か月の休館を経て再開館。月曜休館（11/23は開館）。",
+      "source": "https://ch.kanagawa-museum.jp/",
+      "rain": "ok"
+    },
+    {
+      "title": "松本陽子 宵の明星を見た日",
+      "venue": "神奈川県立近代美術館 葉山",
+      "area": "葉山（神奈川）",
+      "period": "2026-11-28〜2027-02-28",
+      "note": "同会期で「マルク・シャガール『ラ・フォンテーヌ寓話集』」も開催。",
+      "source": "https://www.moma.pref.kanagawa.jp/exhibition/",
+      "rain": "ok"
+    },
+    {
+      "title": "銅版画家・駒井哲郎",
+      "venue": "神奈川県立近代美術館 葉山",
+      "area": "葉山（神奈川）",
+      "period": "2026-09-12〜2026-11-15",
+      "note": "",
+      "source": "https://www.moma.pref.kanagawa.jp/exhibition/",
+      "rain": "ok"
+    },
+    {
+      "title": "モネ没後100年・開館25周年記念 あたらしい目―モネと21世紀のアート",
+      "venue": "ポーラ美術館",
+      "area": "箱根（神奈川）",
+      "period": "2026-06-17〜2027-04-07",
+      "note": "12/1は展示替えのため全館休館。",
+      "source": "https://www.polamuseum.or.jp/exhibition/",
+      "rain": "ok"
+    },
+    {
+      "title": "金銀雲母きら ―かがやきの日本美術―",
+      "venue": "岡田美術館",
+      "area": "箱根（神奈川）",
+      "period": "2026-06-14〜2026-12-06",
+      "note": "",
+      "source": "https://www.okada-museum.com/exhibition/",
+      "rain": "ok"
+    },
+    {
+      "title": "千葉開府900年記念特別展 月と星と―美術がつなぐとき",
+      "venue": "千葉市美術館",
+      "area": "千葉（千葉）",
+      "period": "2026-09-16〜2026-11-23",
+      "note": "",
+      "source": "https://www.ccma-net.jp/",
+      "rain": "ok"
+    },
+    {
+      "title": "大チーバくん展 さかざきちはるとチーバくんの20年",
+      "venue": "千葉県立美術館",
+      "area": "千葉（千葉）",
+      "period": "2026-10-31〜2027-01-17",
+      "note": "",
+      "source": "https://www.chiba-muse.or.jp/ART/",
+      "rain": "ok"
+    },
+    {
+      "title": "企画展示「アイヌ民族と博覧会 ―150年の経験―」",
+      "venue": "国立歴史民俗博物館",
+      "area": "佐倉（千葉）",
+      "period": "2026-10-06〜2026-11-29",
+      "note": "",
+      "source": "https://www.rekihaku.ac.jp/event/2026_exhibitions_kikaku_ainu.html",
       "rain": "ok"
     },
     {
@@ -273,163 +381,281 @@
       "rain": "ok"
     },
     {
-      "title": "令和8年度茨城県芸術祭美術展覧会",
+      "title": "生誕150年 杉浦非水と『非水百花譜』",
+      "venue": "川越市立美術館",
+      "area": "川越（埼玉）",
+      "period": "2026-10-17〜2026-12-13",
+      "note": "",
+      "source": "https://www.city.kawagoe.saitama.jp/artmuseum/",
+      "rain": "ok"
+    },
+    {
+      "title": "中西夏之 緩やかにみつめるためにいつまでも佇む、装置",
       "venue": "茨城県近代美術館",
       "area": "水戸（茨城）",
-      "period": "2026-10-03〜2026-10-18",
-      "note": "日本画・洋画・彫刻・工芸美術・デザイン各部門の県公募展。",
-      "source": "https://www.modernart.museum.ibk.ed.jp/viewer/info.html?id=533",
+      "period": "2026-11-12〜2027-01-17",
+      "note": "",
+      "source": "https://www.modernart.museum.ibk.ed.jp/",
+      "rain": "ok"
+    },
+    {
+      "title": "収蔵作品展「再会―17人のアーティストによる伝言」",
+      "venue": "水戸芸術館 現代美術ギャラリー",
+      "area": "水戸（茨城）",
+      "period": "2026-11-07〜2027-01-31",
+      "note": "",
+      "source": "https://www.arttowermito.or.jp/gallery/",
+      "rain": "ok"
+    },
+    {
+      "title": "松本哲男展",
+      "venue": "栃木県立美術館",
+      "area": "宇都宮（栃木）",
+      "period": "2026-10-24〜2026-12-27",
+      "note": "",
+      "source": "https://www.art.pref.tochigi.lg.jp/exhibition/",
+      "rain": "ok"
+    },
+    {
+      "title": "ウジェーヌ・ブーダン展 印象派の父――光を求めて",
+      "venue": "群馬県立近代美術館",
+      "area": "高崎（群馬）",
+      "period": "2026-11-28〜2027-01-31",
+      "note": "",
+      "source": "https://mmag.pref.gunma.jp/",
+      "rain": "ok"
+    },
+    {
+      "title": "第一回 前橋国際芸術祭2026｜めぶく。Where good things grow.",
+      "venue": "アーツ前橋",
+      "area": "前橋（群馬）",
+      "period": "2026-09-19〜2026-12-20",
+      "note": "",
+      "source": "https://www.artsmaebashi.jp/",
       "rain": "ok"
     }
   ],
   "seasonal": [
     {
-      "title": "コスモスまつり2026",
-      "spot": "国営昭和記念公園（立川）",
-      "peak": "2026年9月12日〜10月25日開催。原っぱ南花畑のコスモスは8月下旬〜10月下旬に開花、花の丘のキバナコスモスは10月上旬まで見頃。",
-      "source": "https://www.showakinen-koen.jp/event/56303/",
+      "title": "いちょう並木の黄葉",
+      "spot": "明治神宮外苑いちょう並木（外苑前）",
+      "peak": "東京の紅葉は例年11月中旬〜12月上旬が見頃。気温により1〜2週間前後する。",
+      "source": "https://www.gotokyo.org/jp/story/guide/autumn-leaves-forecast/index.html",
       "rain": "caution"
     },
     {
-      "title": "コキアの紅葉",
-      "spot": "国営ひたち海浜公園 みはらしの丘（茨城県ひたちなか市）",
-      "peak": "10月10日頃に紅葉始め、10月15日頃に見頃予想。",
-      "source": "https://www.hitachikaihin.jp/news/park/page001040.html",
+      "title": "六義園の紅葉",
+      "spot": "六義園（駒込）",
+      "peak": "例年11月下旬〜12月中旬が見頃。11/25〜12/6は夜間特別観賞あり。",
+      "source": "https://www.gotokyo.org/jp/story/guide/autumn-leaves-forecast/index.html",
+      "rain": "caution"
+    },
+    {
+      "title": "小石川後楽園の紅葉",
+      "spot": "小石川後楽園（飯田橋）",
+      "peak": "例年11月下旬〜12月上旬が見頃。",
+      "source": "https://www.gotokyo.org/jp/story/guide/autumn-leaves-forecast/index.html",
+      "rain": "caution"
+    },
+    {
+      "title": "新宿御苑の紅葉",
+      "spot": "新宿御苑（新宿）",
+      "peak": "例年11月中旬〜12月上旬が見頃。",
+      "source": "https://www.gotokyo.org/jp/story/guide/autumn-leaves-forecast/index.html",
+      "rain": "caution"
+    },
+    {
+      "title": "高尾山もみじまつり",
+      "spot": "高尾山（八王子）",
+      "peak": "2026年10月24日〜12月13日開催。",
+      "source": "https://www.gotokyo.org/jp/spot/ev074/index.html",
       "rain": "caution"
     },
     {
       "title": "秋のバラフェスタ2026",
       "spot": "神代植物公園 ばら園（調布市）",
       "peak": "2026年10月6日〜11月23日開催。10月中旬〜11月下旬が見頃。",
-      "source": "https://www.tokyo-park.or.jp/event_search/10_1.html",
+      "source": "https://www.tokyo-park.or.jp/park/jindai/news/2026/10.html",
       "rain": "caution"
     },
     {
-      "title": "仙石原すすき草原",
-      "spot": "仙石原（箱根町・神奈川）",
-      "peak": "9月下旬〜11月上旬が見頃。秋が深まるにつれ銀色から黄金色に変化。",
-      "source": "https://www.hakone.or.jp/526",
-      "rain": "caution"
-    },
-    {
-      "title": "十三夜（後の月）",
-      "spot": "都内・関東一円",
-      "peak": "2026年10月23日（金）。",
-      "source": "https://www.sendai-astro.jp/observation/blog/2026/10/20261023.html",
+      "title": "ふたご座流星群",
+      "spot": "都内・関東一円（空の暗い場所ほど見やすい）",
+      "peak": "2026年12月14日23時頃に極大。14日夜から15日明け方が好条件で、月は21時頃までに沈む（国立天文台の予想）。",
+      "source": "https://www.nao.ac.jp/astro/sky/2026/12-topics02.html",
       "rain": "ng"
     }
   ],
   "closures": [
     {
       "venue": "Bunkamura ザ・ミュージアム",
-      "period": "2023-04-10〜2027年度中（時期未定、大規模改修工事のため長期休館）",
+      "period": "2023-04-10〜（長期休館中。再開時期は公式未発表）",
       "source": "https://www.bunkamura.co.jp/museum/"
     },
     {
       "venue": "出光美術館（東京・丸の内）",
-      "period": "2024-12-25〜2030年頃（帝劇ビル建替に伴う長期休館）",
+      "period": "2024-12-25〜（帝劇ビル建替に伴う長期休館。再開時期は公式未発表）",
       "source": "https://idemitsu-museum.or.jp/news/241226.php"
     },
     {
       "venue": "DIC川村記念美術館（佐倉）",
-      "period": "2025-04-01〜2030年（東京・港区の国際文化会館へ規模を縮小し移転再開館予定）",
-      "source": "https://www.tokyoartbeat.com/venues/-/6D2D05F3"
+      "period": "2025-03-31をもって佐倉での運営を終了",
+      "source": "https://kawamura-museum.dic.co.jp/"
     },
     {
-      "venue": "森美術館",
-      "period": "2026-09-24〜2026-10-30（展示替えのため一時休館。10/31より「森万里子：燦燦」開幕）",
-      "source": "https://www.mori.art.museum/jp/news/2025/08/8209/"
+      "venue": "日本科学未来館",
+      "period": "〜2027-04-22（全館休館中。2027-04-23にリニューアルオープン予定）",
+      "source": "https://www.miraikan.jst.go.jp/"
+    },
+    {
+      "venue": "ポーラ美術館",
+      "period": "2026-12-01（展示替えのため全館臨時休館）",
+      "source": "https://www.polamuseum.or.jp/news/topics/261106/"
     }
   ],
   "events": [
     {
-      "title": "池上本門寺 お会式",
-      "venue": "池上本門寺",
-      "area": "池上",
-      "period": "2026-10-11〜2026-10-13",
-      "note": "日蓮聖人の命日法要。10/12夜に万灯練供養（18時頃〜23時頃）。周辺は交通規制。",
-      "source": "https://www.o-2.jp/event/oeshiki2026/",
+      "title": "デザインフェスタ vol.64",
+      "venue": "東京ビッグサイト",
+      "area": "有明",
+      "period": "2026-11-14〜2026-11-15",
+      "note": "両日10時〜18時。",
+      "source": "https://designfesta.com/about/",
+      "rain": "ok"
+    },
+    {
+      "title": "浅草酉の市（二の酉）",
+      "venue": "鷲神社・長國寺",
+      "area": "浅草",
+      "period": "2026-11-19〜2026-11-19",
+      "note": "2026年は一の酉11/7・二の酉11/19の2回。",
+      "source": "https://www.gotokyo.org/jp/spot/ev090/index.html",
       "rain": "caution"
     },
     {
-      "title": "第66回 東京名物 神田古本まつり",
-      "venue": "神田神保町古書店街",
-      "area": "神保町",
-      "period": "2026-10-23〜2026-11-01",
-      "note": "10時〜18時。日本最大級の古本市。",
-      "source": "https://www.gotokyo.org/jp/spot/ev118/index.html",
+      "title": "秋の夜散歩2026",
+      "venue": "国営昭和記念公園",
+      "area": "立川",
+      "period": "2026-10-29〜2026-11-29",
+      "note": "イチョウ並木や日本庭園のライトアップ。日本庭園の夜間観賞は事前購入の観賞券が必要。",
+      "source": "https://www.showakinen-koen.jp/autumn-night-walk/",
       "rain": "caution"
     },
     {
-      "title": "原宿表参道ハローハロウィーンパンプキンパレード2026",
-      "venue": "表参道欅並木",
-      "area": "表参道",
-      "period": "2026-10-25〜2026-10-25",
-      "note": "子供の仮装パレード。雨天時はパレードのみ中止。",
-      "source": "https://halloween.omotesando.or.jp/",
-      "rain": "ng"
-    },
-    {
-      "title": "六本木アートナイト2026",
-      "venue": "六本木ヒルズ・国立新美術館ほか六本木エリア各所",
-      "area": "六本木",
-      "period": "2026-10-31〜2026-11-01",
-      "note": "10/31 17時〜11/1 6時のオールナイト開催。六本木エリア各所でアート・パフォーマンス。",
-      "source": "https://roppongiartnight.com/2026/",
+      "title": "庭紅葉の六義園 夜間特別観賞",
+      "venue": "六義園",
+      "area": "駒込",
+      "period": "2026-11-25〜2026-12-06",
+      "note": "前売1,000円（オンラインのみ）・当日1,200円。",
+      "source": "https://www.tokyo-park.or.jp/park/rikugien/news/2026/rikugiengardens.html",
       "rain": "caution"
     },
     {
-      "title": "池袋ハロウィンコスプレフェス2026",
-      "venue": "池袋・サンシャインシティ周辺",
-      "area": "池袋",
-      "period": "2026-10-30〜2026-11-01",
-      "note": "国内最大級のコスプレイベント。10/31・11/1は10時〜18時。",
-      "source": "https://ikebukurocosplay.jp/",
+      "title": "秋の夜間特別拝観（長谷寺）",
+      "venue": "長谷寺",
+      "area": "鎌倉（神奈川）",
+      "period": "2026-11-21〜2026-12-06",
+      "note": "大人400円。悪天候等で中止の場合あり。",
+      "source": "https://www.trip-kamakura.com/event/detail.php?id=70",
       "rain": "caution"
     },
     {
       "title": "大江戸骨董市",
       "venue": "東京国際フォーラム 地上広場",
       "area": "有楽町",
-      "period": "2026-10-04〜2026-10-31",
-      "note": "10月は10/4・10/31開催、9時〜16時。",
+      "period": "2026-11-23〜2026-12-20",
+      "note": "開催日は11/23・12/12・12/20。9時〜16時、入場無料。雨天中止。",
       "source": "https://www.antique-market.jp/",
+      "rain": "ng"
+    },
+    {
+      "title": "秩父夜祭",
+      "venue": "秩父神社・秩父市街地",
+      "area": "秩父（埼玉）",
+      "period": "2026-12-02〜2026-12-03",
+      "note": "12/2宵宮、12/3本祭。屋台・笠鉾の曳き回しと冬の花火で知られる。",
+      "source": "https://navi.city.chichibu.lg.jp/info/2026/10/31171/",
       "rain": "caution"
     },
     {
-      "title": "東京大茶会2026",
-      "venue": "江戸東京たてもの園／浜離宮恩賜庭園",
-      "area": "小金井・浜松町",
-      "period": "2026-10-24〜2026-11-01",
-      "note": "江戸東京たてもの園会場10/24-25、浜離宮恩賜庭園会場10/31-11/1。今年から茶席・野点は全席当日参加制。",
-      "source": "https://tokyo-grand-tea-ceremony.jp/",
+      "title": "赤穂義士祭",
+      "venue": "泉岳寺",
+      "area": "高輪",
+      "period": "2026-12-12〜2026-12-14",
+      "note": "12/14の四十七義士ゆかりの行事。義士に扮した行列が見どころ。",
+      "source": "https://www.gotokyo.org/jp/spot/ev111/index.html",
       "rain": "caution"
     },
     {
-      "title": "川越まつり",
-      "venue": "川越氷川神社・川越市街地",
-      "area": "川越（埼玉）",
-      "period": "2026-10-17〜2026-10-18",
-      "note": "川越総鎮守氷川神社の例大祭。豪華な山車行事で知られる。",
-      "source": "https://kawagoematsuri.jp/",
+      "title": "世田谷のボロ市",
+      "venue": "ボロ市通り周辺",
+      "area": "世田谷",
+      "period": "2026-12-15〜2026-12-16",
+      "note": "年明けは1/15・16にも開催。荒天時は中止の場合あり。",
+      "source": "https://www.city.setagaya.lg.jp/02072/10108.html",
       "rain": "caution"
     },
     {
-      "title": "カワサキハロウィン",
-      "venue": "川崎駅周辺",
-      "area": "川崎（神奈川）",
-      "period": "2026-10-28〜2026-10-29",
-      "note": "国内最大級のハロウィンパレード。メインパレードは10/29 14:30〜16:00。",
-      "source": "https://k-shouren.jp/event/2765/",
+      "title": "歳の市（羽子板市）",
+      "venue": "浅草寺境内",
+      "area": "浅草",
+      "period": "2026-12-17〜2026-12-19",
+      "note": "",
+      "source": "https://www.city.taito.lg.jp/event/kanko/toshinoichi.html",
       "rain": "caution"
     },
     {
-      "title": "佐原の大祭 秋祭り",
-      "venue": "諏訪神社・佐原の町並み",
-      "area": "香取（千葉）",
-      "period": "2026-10-11〜2026-10-13",
-      "note": "小江戸・佐原の伝統祭礼。14台の山車が町を曳き廻される。10時〜22時。",
-      "source": "https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/aki.html",
+      "title": "Marunouchi Street Terrace（丸の内 冬のテラス）",
+      "venue": "丸の内仲通り",
+      "area": "丸の内",
+      "period": "2026-11-12〜2026-12-25",
+      "note": "イルミネーションの下にテラス席とキッチンカーが並ぶ。雨天・強風時は設置中止の場合あり。",
+      "source": "https://www.marunouchi.com/pickup/event/11040/",
+      "rain": "caution"
+    },
+    {
+      "title": "六本木ヒルズ けやき坂イルミネーション",
+      "venue": "六本木けやき坂通り",
+      "area": "六本木",
+      "period": "2026-11-05〜2026-12-25",
+      "note": "",
+      "source": "https://www.roppongihills.com/sp/christmashills/102/",
+      "rain": "caution"
+    },
+    {
+      "title": "MIDTOWN CHRISTMAS 2026",
+      "venue": "東京ミッドタウン",
+      "area": "六本木",
+      "period": "2026-11-26〜2026-12-25",
+      "note": "",
+      "source": "https://www.tokyo-midtown.com/jp/event/8187/",
+      "rain": "caution"
+    },
+    {
+      "title": "クリスマスマーケット in 横浜赤レンガ倉庫",
+      "venue": "横浜赤レンガ倉庫",
+      "area": "横浜（神奈川）",
+      "period": "2026-11-20〜2026-12-25",
+      "note": "11/21〜12/4は11時〜21時、12/5以降は22時まで。雨天決行（荒天時は休業の場合あり）。",
+      "source": "https://www.yokohama-akarenga.jp/christmas/",
+      "rain": "caution"
+    },
+    {
+      "title": "さがみ湖イルミリオン",
+      "venue": "さがみ湖MORI MORI",
+      "area": "相模原（神奈川）",
+      "period": "2026-11-14〜2027-05-09",
+      "note": "休園日あり。",
+      "source": "https://www.sagamiko-resort.jp/illumillion/",
+      "rain": "caution"
+    },
+    {
+      "title": "湘南の宝石2026-2027",
+      "venue": "江の島サムエル・コッキング苑ほか",
+      "area": "江の島（神奈川）",
+      "period": "2026-12-01〜2027-02-28",
+      "note": "点灯は17時から。平日は20時まで、土日祝と12/19〜30は21時まで。",
+      "source": "https://enoshima-seacandle.com/event/shonannohoseki/",
       "rain": "caution"
     }
   ]
